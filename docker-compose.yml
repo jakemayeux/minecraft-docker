@@ -1,0 +1,15 @@
+version: '3.1'
+
+services:
+  minecraft:
+    build: .
+    restart: unless-stopped
+    ports:
+      - 1338:25575
+      - 1337:25565
+    volumes: 
+      - ./minecraft:/home/jdm/minecraft
+    security_opt:
+      - apparmor:mc-vanilla-profile
+
+
