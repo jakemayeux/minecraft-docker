@@ -1,0 +1,27 @@
+# Last Modified: Mon Jan 17 21:03:18 2022
+@{minecraft} = /home/jdm/minecraft
+
+#include <tunables/global>
+
+profile mc-vanilla-profile {
+  #include <abstractions/base>
+  #include <abstractions/bash>
+  #include <abstractions/consoles>
+  #include <abstractions/nameservice>
+  #include <abstractions/ubuntu-browsers.d/java>
+
+  /usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java mrix,
+  /usr/share/java/java-atk-wrapper.jar r,
+  @{minecraft}/ r,
+  @{minecraft}/** rwk,
+  @{minecraft}/start-server.sh mrix,
+  owner /home/*/.bashrc r,
+  owner /proc/*/cgroup r,
+  owner /proc/*/coredump_filter rw,
+  owner /proc/*/fd/ r,
+  owner /proc/*/mountinfo r,
+  owner /proc/*/stat r,
+  owner /proc/*/status r,
+  owner /tmp/** mrw,
+
+}
