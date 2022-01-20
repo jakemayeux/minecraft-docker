@@ -1,504 +1,200 @@
-[00:03:15] [User Authenticator #19/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[00:03:15] [Server thread/INFO]: jaderinoo[/10.0.0.2:35184] logged in with entity id 77680 at (1284.699999988079, 67.0, 587.4490450696743)
-[00:03:15] [Server thread/INFO]: jaderinoo joined the game
-[00:03:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2168ms or 43 ticks behind
-[00:35:40] [Server thread/INFO]: <jaderinoo> jaderinoo
-[01:17:11] [Server thread/INFO]: jaderinoo lost connection: Disconnected
-[01:17:11] [Server thread/INFO]: jaderinoo left the game
-[01:23:55] [User Authenticator #20/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[01:23:55] [Server thread/INFO]: jaderinoo[/10.0.0.2:35270] logged in with entity id 95744 at (1507.440349423852, 77.0, 684.7792202109708)
-[01:23:55] [Server thread/INFO]: jaderinoo joined the game
-[01:24:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[01:35:28] [RCON Client /10.0.0.3 #2/INFO]: Thread RCON Client /10.0.0.3 shutting down
-[01:35:29] [RCON Listener #1/INFO]: Thread RCON Client /10.0.0.3 started
-[01:36:48] [Server thread/INFO]: [Rcon: Made ___may0___ a server operator]
-[01:36:56] [RCON Client /10.0.0.3 #3/INFO]: Thread RCON Client /10.0.0.3 shutting down
-[01:36:58] [RCON Listener #1/INFO]: Thread RCON Client /10.0.0.3 started
-[01:37:14] [User Authenticator #21/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[01:37:14] [Server thread/INFO]: ___may0___[/10.0.0.4:60048] logged in with entity id 99737 at (1087.2518289563852, 62.07326432466507, 570.5759952528247)
-[01:37:14] [Server thread/INFO]: ___may0___ joined the game
-[01:37:15] [RCON Client /10.0.0.3 #4/INFO]: Thread RCON Client /10.0.0.3 shutting down
-[01:37:50] [Server thread/INFO]: <___may0___> gamer check
-[01:40:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[01:41:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[01:42:58] [Server thread/INFO]: <jaderinoo> yo
-[01:43:02] [Server thread/INFO]: <___may0___> yo
-[01:43:07] [User Authenticator #22/INFO]: UUID of player Agent_Pod is 309dada3-d647-4ca1-922b-db960fa0e848
-[01:43:07] [Server thread/INFO]: Agent_Pod[/10.0.0.2:35296] logged in with entity id 102628 at (-36.5, 77.0, 56.5)
-[01:43:07] [Server thread/INFO]: Agent_Pod joined the game
-[01:43:07] [Server thread/INFO]: [___may0___: Gamerule mobGriefing is now set to: false]
-[01:43:09] [Server thread/INFO]: <jaderinoo> I just took an insane shit
-[01:43:15] [Server thread/INFO]: <___may0___> epic
-[01:43:18] [Server thread/INFO]: <Agent_Pod> delicious
-[01:43:20] [Server thread/INFO]: <jaderinoo> who dat
-[01:43:29] [Server thread/INFO]: <___may0___> an epic gamer
-[01:43:32] [Server thread/INFO]: <Agent_Pod> i'm agent pod
-[01:43:37] [Server thread/INFO]: <jaderinoo> hello agent pod
-[01:43:41] [Server thread/INFO]: <Agent_Pod> secret agent tide pod to you!
-[01:43:48] [Server thread/INFO]: <jaderinoo> im not calling you that
-[01:43:51] [Server thread/INFO]: <jaderinoo> that sounds racist
-[01:44:10] [Server thread/INFO]: <jaderinoo> mayo
-[01:44:12] [Server thread/INFO]: <Agent_Pod> well i'm not racist but bluegreen tide pods are gross...
-[01:44:22] [Server thread/INFO]: <jaderinoo> nice.
-[01:44:38] [Server thread/INFO]: <jaderinoo> mayo I think I need help
-[01:44:44] [Server thread/INFO]: <___may0___> what did you do
-[01:44:54] [Server thread/INFO]: <jaderinoo> I think I took on too much work
-[01:45:07] [Server thread/INFO]: <jaderinoo> I've been working on deforesting the island entirely
-[01:49:17] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[01:49:17] [Server thread/INFO]: ___may0___ left the game
-[01:49:27] [Server thread/INFO]: <jaderinoo> mayo leaving is not epic
-[01:50:06] [Server thread/INFO]: Agent_Pod has made the advancement [Stone Age]
-[01:53:30] [Server thread/INFO]: <jaderinoo> can you leave and join back so I can sleep
-[01:53:37] [Server thread/INFO]: Agent_Pod lost connection: Disconnected
-[01:53:37] [Server thread/INFO]: Agent_Pod left the game
-[01:53:52] [User Authenticator #23/INFO]: UUID of player Agent_Pod is 309dada3-d647-4ca1-922b-db960fa0e848
-[01:53:52] [Server thread/INFO]: Agent_Pod[/10.0.0.2:35320] logged in with entity id 107360 at (-205.31183983105788, 68.0, -13.187901721895399)
-[01:53:52] [Server thread/INFO]: Agent_Pod joined the game
-[02:06:17] [Server thread/INFO]: Agent_Pod has made the advancement [Monster Hunter]
-[02:06:22] [Server thread/INFO]: Agent_Pod lost connection: Disconnected
-[02:06:22] [Server thread/INFO]: Agent_Pod left the game
-[02:07:08] [User Authenticator #24/INFO]: UUID of player Agent_Pod is 309dada3-d647-4ca1-922b-db960fa0e848
-[02:07:08] [Server thread/INFO]: Agent_Pod[/10.0.0.2:35336] logged in with entity id 112529 at (-261.8622173649096, 72.0, -6.240266235702866)
-[02:07:08] [Server thread/INFO]: Agent_Pod joined the game
-[02:08:50] [Server thread/INFO]: Agent_Pod lost connection: Disconnected
-[02:08:50] [Server thread/INFO]: Agent_Pod left the game
-[02:21:26] [User Authenticator #25/INFO]: UUID of player Agent_Pod is 309dada3-d647-4ca1-922b-db960fa0e848
-[02:21:26] [Server thread/INFO]: Agent_Pod[/10.0.0.2:35356] logged in with entity id 117077 at (-242.5441897620223, 65.0, -19.82280899067116)
-[02:21:26] [Server thread/INFO]: Agent_Pod joined the game
-[02:21:29] [Server thread/INFO]: Agent_Pod lost connection: Disconnected
-[02:21:29] [Server thread/INFO]: Agent_Pod left the game
-[02:24:31] [User Authenticator #26/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[02:24:31] [Server thread/INFO]: ___may0___[/10.0.0.4:63893] logged in with entity id 117678 at (-232.4070889894846, 66.0, -66.54035466183018)
-[02:24:31] [Server thread/INFO]: ___may0___ joined the game
-[02:28:31] [Server thread/INFO]: <jaderinoo> gamer
-[02:28:35] [Server thread/INFO]: <___may0___> check
-[02:28:51] [Server thread/INFO]: <___may0___> when the aws is deploying
-[02:29:09] [Server thread/INFO]: <jaderinoo> ?
-[02:29:14] [Server thread/INFO]: <jaderinoo> what you deploying
-[02:29:26] [Server thread/INFO]: <___may0___> network load balancer
-[02:29:42] [Server thread/INFO]: <jaderinoo> ah gotcha
-[02:31:07] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[02:31:07] [Server thread/INFO]: ___may0___ left the game
-[02:33:49] [User Authenticator #27/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[02:33:50] [Server thread/INFO]: ___may0___[/10.0.0.4:64180] logged in with entity id 120877 at (-236.62624278887503, 64.875, -67.18857894369435)
-[02:33:50] [Server thread/INFO]: ___may0___ joined the game
-[02:33:59] [Server thread/INFO]: jaderinoo lost connection: Disconnected
-[02:33:59] [Server thread/INFO]: jaderinoo left the game
-[02:35:32] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[02:35:32] [Server thread/INFO]: ___may0___ left the game
-[02:38:40] [User Authenticator #28/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[02:38:40] [Server thread/INFO]: ___may0___[/10.0.0.4:50568] logged in with entity id 121523 at (-212.4526594150664, 68.0, -58.9844690526917)
-[02:38:40] [Server thread/INFO]: ___may0___ joined the game
-[02:38:46] [User Authenticator #29/INFO]: UUID of player Agent_Pod is 309dada3-d647-4ca1-922b-db960fa0e848
-[02:38:46] [Server thread/INFO]: Agent_Pod[/10.0.0.2:35396] logged in with entity id 121692 at (-243.06397173678863, 65.0, -19.30000001192093)
-[02:38:46] [Server thread/INFO]: Agent_Pod joined the game
-[02:39:22] [User Authenticator #30/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[02:39:22] [Server thread/INFO]: jaderinoo[/10.0.0.2:35400] logged in with entity id 121821 at (1479.7928362491114, 69.0, 460.1069299804138)
-[02:39:22] [Server thread/INFO]: jaderinoo joined the game
-[02:39:26] [Server thread/INFO]: Agent_Pod has made the advancement [Take Aim]
-[02:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[02:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[02:40:33] [Server thread/INFO]: Agent_Pod has made the advancement [Acquire Hardware]
-[02:41:31] [Server thread/INFO]: <___may0___> jad do you have an enchanting table?
-[02:41:41] [Server thread/INFO]: <jaderinoo> no
-[02:41:46] [Server thread/INFO]: <___may0___> not epic
-[02:41:47] [Server thread/INFO]: <jaderinoo> I only have wood
-[02:57:32] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[02:57:32] [Server thread/INFO]: ___may0___ left the game
-[03:04:36] [Server thread/INFO]: jaderinoo lost connection: Disconnected
-[03:04:36] [Server thread/INFO]: jaderinoo left the game
-[03:39:00] [Server thread/INFO]: Agent_Pod lost connection: Disconnected
-[03:39:00] [Server thread/INFO]: Agent_Pod left the game
-[03:45:16] [User Authenticator #31/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[03:45:16] [Server thread/INFO]: jaderinoo[/10.0.0.2:35486] logged in with entity id 135695 at (1348.9269514232312, 64.0, 605.141043326074)
-[03:45:16] [Server thread/INFO]: jaderinoo joined the game
-[03:45:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[03:47:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1400, y=87, z=606} gh{x=1399, y=87, z=606}
-[03:47:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1400, y=87, z=606} gh{x=1399, y=87, z=606}
-[03:47:52] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1400, y=85, z=606} gh{x=1399, y=85, z=606}
-[03:47:54] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1400, y=84, z=607} gh{x=1400, y=84, z=606}
-[03:48:00] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1398, y=81, z=604} gh{x=1398, y=82, z=604}
-[03:48:56] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1398, y=76, z=597} gh{x=1398, y=73, z=598}
-[03:56:30] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1461, y=72, z=560} gh{x=1461, y=71, z=561}
-[03:57:27] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1445, y=76, z=561} gh{x=1445, y=76, z=560}
-[04:05:55] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1440, y=77, z=571} gh{x=1439, y=77, z=571}
-[04:11:53] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1423, y=101, z=561} gh{x=1423, y=101, z=560}
-[04:15:42] [User Authenticator #32/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[04:15:42] [Server thread/INFO]: ___may0___[/10.0.0.4:63976] logged in with entity id 143089 at (-251.63003455595998, 63.0, -79.06797937682073)
-[04:15:42] [Server thread/INFO]: ___may0___ joined the game
-[04:15:52] [Server thread/INFO]: <___may0___> gamer alert
-[04:15:52] [Server thread/INFO]: <jaderinoo> yo
-[04:16:07] [Server thread/INFO]: <jaderinoo> you need to see
-[04:16:09] [Server thread/INFO]: <jaderinoo> how much i did
-[04:16:15] [Server thread/INFO]: <___may0___> alright
-[04:17:44] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1430, y=99, z=547} gh{x=1431, y=99, z=547}
-[04:19:20] [Server thread/INFO]: <___may0___> discord?
-[04:19:24] [Server thread/INFO]: <jaderinoo> 5 min?
-[04:19:29] [Server thread/INFO]: <___may0___> sure
-[04:20:26] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1441, y=72, z=527} gh{x=1441, y=73, z=526}
-[04:21:32] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1449, y=73, z=504} gh{x=1448, y=73, z=504}
-[04:21:49] [Server thread/INFO]: <___may0___> where are you
-[04:21:52] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1454, y=75, z=522} gh{x=1453, y=75, z=522}
-[04:21:52] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1454, y=75, z=522} gh{x=1453, y=75, z=522}
-[04:21:57] [Server thread/INFO]: <jaderinoo> are you at the beach?
-[04:22:06] [Server thread/INFO]: <___may0___> ya
-[04:22:54] [Server thread/INFO]: ___may0___ was slain by jaderinoo
-[04:22:58] [Server thread/INFO]: <jaderinoo> OH FUCK
-[04:23:00] [Server thread/INFO]: <___may0___> WHAT THE FUCK
-[04:23:05] [Server thread/INFO]: <___may0___> I HAD 28 LEVELS
-[04:23:05] [Server thread/INFO]: <jaderinoo> I HIT THE HOTKEY
-[04:23:08] [Server thread/INFO]: <jaderinoo> IM SO SORRY
-[04:23:12] [Server thread/INFO]: <___may0___> lmao
-[04:23:34] [Server thread/INFO]: <jaderinoo> I DIDNT KNOW I HAD ONE
-[04:23:35] [Server thread/INFO]: <___may0___> ur getting bannedski
-[04:23:45] [Server thread/INFO]: <jaderinoo> ITS A DEFAUFLT
-[04:24:00] [Server thread/INFO]: <___may0___> its fine lol
-[04:24:11] [Server thread/INFO]: <___may0___> ill probably get back to 30 by the time i get an enchanting table
-[04:24:34] [Server thread/INFO]: jaderinoo has made the advancement [Suit Up]
-[04:24:55] [Server thread/INFO]: <jaderinoo> wanna move down 1
-[04:26:14] [Server thread/INFO]: [___may0___: Teleported ___may0___ to jaderinoo]
-[04:26:14] [Server thread/WARN]: ___may0___ moved too quickly! 984.4599914196654,2.0,363.64059191555407
-[04:26:14] [Server thread/WARN]: ___may0___ moved too quickly! 984.4599914196654,2.0,363.64059191555407
-[04:26:14] [Server thread/WARN]: ___may0___ moved too quickly! 984.4599914196654,2.0,363.64059191555407
-[04:27:18] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[04:27:18] [Server thread/INFO]: ___may0___ left the game
-[04:27:30] [User Authenticator #33/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[04:27:30] [Server thread/INFO]: ___may0___[/10.0.0.4:49479] logged in with entity id 150349 at (1284.9917558253928, 67.0, 590.6072702473539)
-[04:27:30] [Server thread/INFO]: ___may0___ joined the game
-[04:33:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[04:34:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
-[04:34:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[04:35:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[04:35:33] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1501, y=69, z=480} gh{x=1501, y=70, z=480}
-[04:38:45] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[04:38:45] [Server thread/INFO]: ___may0___ left the game
-[04:38:48] [User Authenticator #34/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[04:38:48] [Server thread/INFO]: ___may0___[/10.0.0.4:49799] logged in with entity id 156577 at (-236.6314678279227, 63.9375, -51.39919403773116)
-[04:38:48] [Server thread/INFO]: ___may0___ joined the game
-[04:38:51] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[04:38:51] [Server thread/INFO]: ___may0___ left the game
-[04:38:57] [User Authenticator #35/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[04:38:57] [Server thread/INFO]: ___may0___[/10.0.0.4:49809] logged in with entity id 156786 at (-236.6314678279227, 63.9375, -51.39919403773116)
-[04:38:57] [Server thread/INFO]: ___may0___ joined the game
-[04:40:01] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1436, y=80, z=566} gh{x=1436, y=80, z=565}
-[04:40:02] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1438, y=81, z=568} gh{x=1438, y=81, z=567}
-[04:41:10] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1456, y=79, z=540} gh{x=1455, y=79, z=540}
-[04:45:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1470, y=66, z=494} gh{x=1470, y=66, z=493}
-[04:45:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1479, y=68, z=489} gh{x=1478, y=68, z=489}
-[04:45:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1479, y=67, z=489} gh{x=1478, y=67, z=489}
-[04:45:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1480, y=66, z=483} gh{x=1481, y=66, z=483}
-[04:46:18] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1492, y=76, z=460} gh{x=1493, y=75, z=459}
-[04:46:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1495, y=78, z=461} gh{x=1495, y=78, z=462}
-[04:48:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1512, y=70, z=485} gh{x=1511, y=70, z=485}
-[04:50:15] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[04:50:15] [Server thread/INFO]: ___may0___ left the game
-[04:50:22] [User Authenticator #36/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[04:50:22] [Server thread/INFO]: ___may0___[/10.0.0.4:50193] logged in with entity id 161654 at (-235.42174764494297, 64.0, -65.24239910810215)
-[04:50:22] [Server thread/INFO]: ___may0___ joined the game
-[04:52:07] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1454, y=89, z=572} gh{x=1454, y=89, z=571}
-[04:52:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1456, y=86, z=571} gh{x=1456, y=83, z=572}
-[04:53:23] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1474, y=69, z=498} gh{x=1473, y=69, z=498}
-[04:57:11] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1500, y=71, z=525} gh{x=1499, y=71, z=525}
-[04:57:59] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1505, y=76, z=523} gh{x=1506, y=78, z=522}
-[05:00:24] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1470, y=79, z=508} gh{x=1471, y=79, z=508}
-[05:00:29] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1473, y=77, z=506} gh{x=1473, y=78, z=505}
-[05:03:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1470, y=77, z=565} gh{x=1470, y=77, z=564}
-[05:03:25] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1471, y=77, z=565} gh{x=1471, y=77, z=564}
-[05:04:04] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1470, y=64, z=562} gh{x=1470, y=64, z=563}
-[05:05:31] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[05:05:31] [Server thread/INFO]: ___may0___ left the game
-[05:05:37] [User Authenticator #37/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[05:05:37] [Server thread/INFO]: ___may0___[/10.0.0.4:56355] logged in with entity id 168688 at (-171.30000001192093, -11.0, -65.49004953566548)
-[05:05:37] [Server thread/INFO]: ___may0___ joined the game
-[05:08:52] [Server thread/INFO]: [___may0___] hello
-[05:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[05:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[05:27:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[05:27:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[05:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[05:28:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[05:35:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[05:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[05:41:07] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[05:41:07] [Server thread/INFO]: ___may0___ left the game
-[05:41:21] [User Authenticator #38/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[05:41:21] [Server thread/INFO]: ___may0___[/10.0.0.4:59183] logged in with entity id 188433 at (-248.4105639933224, 64.0, -85.59489171451152)
-[05:41:21] [Server thread/INFO]: ___may0___ joined the game
-[05:53:41] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[05:53:41] [Server thread/INFO]: ___may0___ left the game
-[05:57:25] [User Authenticator #39/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[05:57:25] [Server thread/INFO]: ___may0___[/10.0.0.4:52407] logged in with entity id 192028 at (-237.85638829650114, 64.0, -66.30549965545873)
-[05:57:25] [Server thread/INFO]: ___may0___ joined the game
-[06:16:38] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[06:16:38] [Server thread/INFO]: ___may0___ left the game
-[06:20:58] [Server thread/INFO]: jaderinoo lost connection: Timed out
-[06:20:58] [Server thread/INFO]: jaderinoo left the game
-[06:20:58] [Server thread/WARN]: handleDisconnection() called twice
-[06:25:32] [User Authenticator #40/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[06:25:33] [Server thread/INFO]: ___may0___[/10.0.0.4:53281] logged in with entity id 197402 at (-235.06177899130464, 64.0, -64.12045597790669)
-[06:25:33] [Server thread/INFO]: ___may0___ joined the game
-[06:25:36] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[06:25:36] [Server thread/INFO]: ___may0___ left the game
-[14:48:32] [Server thread/INFO]: com.mojang.authlib.GameProfile@3dab065b[id=<null>,name=INETDataSurveyS2,properties={},legacy=false] (/10.0.0.2:36230) lost connection: Disconnected
-[16:10:07] [User Authenticator #41/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[16:10:07] [Server thread/INFO]: jaderinoo[/10.0.0.2:36320] logged in with entity id 197670 at (1285.5, 67.875, 588.5)
-[16:10:07] [Server thread/INFO]: jaderinoo joined the game
-[16:13:05] [Server thread/INFO]: <jaderinoo> w
-[16:13:07] [Server thread/INFO]: <jaderinoo> \
-[16:19:46] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1353, y=70, z=731} gh{x=1353, y=70, z=732}
-[17:23:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[17:23:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3088ms or 61 ticks behind
-[17:46:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[17:47:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[17:57:10] [Server thread/INFO]: jaderinoo lost connection: Disconnected
-[17:57:10] [Server thread/INFO]: jaderinoo left the game
-[17:57:12] [User Authenticator #42/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[17:57:12] [Server thread/INFO]: jaderinoo[/10.0.0.2:36438] logged in with entity id 224357 at (1544.699999988079, 68.0, 638.8631196562534)
-[17:57:12] [Server thread/INFO]: jaderinoo joined the game
-[17:57:24] [Server thread/INFO]: jaderinoo lost connection: Disconnected
-[17:57:24] [Server thread/INFO]: jaderinoo left the game
-[17:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12067ms or 241 ticks behind
-[17:57:24] [Server thread/WARN]: handleDisconnection() called twice
-[17:57:26] [User Authenticator #43/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[17:57:26] [Server thread/INFO]: jaderinoo[/10.0.0.2:36444] logged in with entity id 224479 at (1544.699999988079, 68.0, 638.8631196562534)
-[17:57:26] [Server thread/INFO]: jaderinoo joined the game
-[18:12:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1542, y=78, z=705} gh{x=1543, y=78, z=705}
-[18:13:47] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1542, y=80, z=730} gh{x=1542, y=79, z=729}
-[18:28:34] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1538, y=78, z=695} gh{x=1538, y=77, z=695}
-[18:28:37] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1539, y=79, z=692} gh{x=1538, y=78, z=691}
-[18:28:37] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1539, y=79, z=692} gh{x=1538, y=78, z=691}
-[18:29:20] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1528, y=75, z=682} gh{x=1528, y=74, z=682}
-[18:32:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1544, y=83, z=730} gh{x=1543, y=83, z=730}
-[18:32:15] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1544, y=83, z=730} gh{x=1543, y=83, z=730}
-[18:32:21] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1542, y=75, z=729} gh{x=1542, y=76, z=729}
-[18:47:08] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1572, y=77, z=742} gh{x=1572, y=78, z=742}
-[18:49:36] [User Authenticator #44/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[18:49:36] [Server thread/INFO]: ___may0___[/10.0.0.4:56553] logged in with entity id 240494 at (-239.41291704240862, 64.0, -62.49793734529717)
-[18:49:36] [Server thread/INFO]: ___may0___ joined the game
-[18:49:45] [Server thread/INFO]: <jaderinoo> oh
-[18:49:46] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[18:49:46] [Server thread/INFO]: ___may0___ left the game
-[18:49:49] [Server thread/INFO]: <jaderinoo> whats up gamer
-[18:50:12] [User Authenticator #45/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[18:50:12] [Server thread/INFO]: ___may0___[/10.0.0.4:56558] logged in with entity id 240901 at (-236.19510433227543, 64.0, -63.97298053586508)
-[18:50:12] [Server thread/INFO]: ___may0___ joined the game
-[18:50:14] [Server thread/INFO]: <jaderinoo> wait
-[18:50:19] [Server thread/INFO]: <___may0___> actually its fine
-[18:50:23] [Server thread/INFO]: <jaderinoo> k
-[18:50:24] [Server thread/INFO]: <___may0___> im too impatient
-[18:50:46] [Server thread/INFO]: <jaderinoo> my boss ghosted me for the majority of the day
-[18:50:53] [Server thread/INFO]: <jaderinoo> so ive been chopping trees since 9
-[18:51:00] [Server thread/INFO]: <___may0___> thats epic
-[18:51:49] [Server thread/INFO]: ___may0___ was blown up by Creeper
-[18:51:50] [Server thread/INFO]: Skipping update from removed player 'adj['___may0___'/240901, l='ServerLevel[world]', x=-231.60, y=64.00, z=-52.73, removed=KILLED]'
-[18:51:52] [Server thread/INFO]: <jaderinoo> LOL
-[18:51:56] [Server thread/INFO]: <___may0___> gonna lost it
-[18:51:58] [Server thread/INFO]: <___may0___> lose
-[18:52:01] [Server thread/INFO]: <jaderinoo> hahahah
-[18:52:31] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1577, y=75, z=724} gh{x=1578, y=75, z=723}
-[18:52:32] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1576, y=75, z=722} gh{x=1575, y=75, z=723}
-[18:52:32] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1576, y=75, z=722} gh{x=1575, y=75, z=723}
-[18:53:57] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[18:53:57] [Server thread/INFO]: ___may0___ left the game
-[18:54:25] [User Authenticator #46/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[18:54:25] [Server thread/INFO]: ___may0___[/10.0.0.4:63808] logged in with entity id 243589 at (-231.85716088983773, 59.0, -64.36708104239223)
-[18:54:25] [Server thread/INFO]: ___may0___ joined the game
-[19:07:39] [Server thread/INFO]: <jaderinoo> want any birch
-[19:07:52] [Server thread/INFO]: <___may0___> nah im good
-[19:08:00] [Server thread/INFO]: <jaderinoo> imma ask again
-[19:08:04] [Server thread/INFO]: <___may0___> no
-[19:08:05] [Server thread/INFO]: <jaderinoo> you want any birch
-[19:08:09] [Server thread/INFO]: <jaderinoo> please
-[19:08:12] [Server thread/INFO]: <___may0___> actually
-[19:08:13] [Server thread/INFO]: <___may0___> maybe
-[19:08:24] [Server thread/INFO]: <jaderinoo> i have 6000 logs
-[19:10:28] [Server thread/INFO]: <jaderinoo> sleep?
-[19:10:31] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[19:10:31] [Server thread/INFO]: ___may0___ left the game
-[19:10:44] [User Authenticator #47/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[19:10:44] [Server thread/INFO]: ___may0___[/10.0.0.4:57260] logged in with entity id 251546 at (-235.30608096600704, -54.0, -103.95290826173868)
-[19:10:44] [Server thread/INFO]: ___may0___ joined the game
-[19:19:22] [Server thread/INFO]: <jaderinoo> done.
-[19:19:29] [Server thread/INFO]: <___may0___> all of it?
-[19:19:32] [Server thread/INFO]: <jaderinoo> all of it
-[19:20:16] [Server thread/INFO]: <jaderinoo> time to level some dirt lol
-[19:20:22] [Server thread/INFO]: <___may0___> niiiiiice
-[19:20:35] [Server thread/INFO]: <___may0___> ahead of schedule very epic\
-[19:20:44] [Server thread/INFO]: <jaderinoo> ye
-[19:22:00] [Server thread/INFO]: <jaderinoo> sleep?
-[19:22:03] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[19:22:03] [Server thread/INFO]: ___may0___ left the game
-[19:22:11] [User Authenticator #48/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[19:22:11] [Server thread/INFO]: ___may0___[/10.0.0.4:57282] logged in with entity id 258076 at (-269.43291200235495, -49.0, -194.15147108530152)
-[19:22:11] [Server thread/INFO]: ___may0___ joined the game
-[19:22:27] [Server thread/INFO]: <jaderinoo> ty
-[19:30:21] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[19:30:21] [Server thread/INFO]: ___may0___ left the game
-[19:30:59] [Server thread/INFO]: jaderinoo lost connection: Disconnected
-[19:30:59] [Server thread/INFO]: jaderinoo left the game
-[19:32:22] [User Authenticator #49/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[19:32:22] [Server thread/INFO]: ___may0___[/10.0.0.4:57537] logged in with entity id 263084 at (-318.94506120794955, -48.0, -117.26938286951386)
-[19:32:22] [Server thread/INFO]: ___may0___ joined the game
-[19:32:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[19:33:38] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[19:33:38] [Server thread/INFO]: ___may0___ left the game
-[20:00:01] [User Authenticator #50/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[20:00:01] [Server thread/INFO]: ___may0___[/10.0.0.4:49218] logged in with entity id 263569 at (-303.6773923066667, -43.0, -144.84945182412346)
-[20:00:01] [Server thread/INFO]: ___may0___ joined the game
-[20:01:04] [Server thread/INFO]: ___may0___ has made the advancement [Ice Bucket Challenge]
-[20:17:33] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[20:17:33] [Server thread/INFO]: ___may0___ left the game
-[20:17:57] [User Authenticator #51/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[20:17:57] [Server thread/INFO]: ___may0___[/10.0.0.4:49765] logged in with entity id 267288 at (-232.80306059437578, 63.9375, -52.644948783428795)
-[20:17:57] [Server thread/INFO]: ___may0___ joined the game
-[20:18:45] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[20:18:45] [Server thread/INFO]: ___may0___ left the game
-[20:19:12] [User Authenticator #52/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[20:19:12] [Server thread/INFO]: ___may0___[/10.0.0.4:49811] logged in with entity id 267759 at (-235.90756219630694, 64.0, -32.07499998807907)
-[20:19:12] [Server thread/INFO]: ___may0___ joined the game
-[20:20:05] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[20:20:05] [Server thread/INFO]: ___may0___ left the game
-[20:20:40] [User Authenticator #53/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[20:20:40] [Server thread/INFO]: ___may0___[/10.0.0.4:49891] logged in with entity id 268234 at (-239.98383806637526, 64.0, -67.25843101705199)
-[20:20:40] [Server thread/INFO]: ___may0___ joined the game
-[20:23:48] [Server thread/WARN]: Boat (vehicle of ___may0___) moved wrongly! 0.30006795770020744
-[20:25:38] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[20:25:38] [Server thread/INFO]: ___may0___ left the game
-[20:26:10] [User Authenticator #54/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[20:26:10] [Server thread/INFO]: ___may0___[/10.0.0.4:50071] logged in with entity id 271718 at (-555.2236985150321, 62.07326432466506, -551.4613771666458)
-[20:26:10] [Server thread/INFO]: ___may0___ joined the game
-[20:26:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10338ms or 206 ticks behind
-[20:27:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[20:36:17] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[20:36:17] [Server thread/INFO]: ___may0___ left the game
-[20:42:16] [User Authenticator #55/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[20:42:16] [Server thread/INFO]: jaderinoo[/10.0.0.2:36696] logged in with entity id 275555 at (1285.7205837499068, 68.0, 587.6389179410039)
-[20:42:16] [Server thread/INFO]: jaderinoo joined the game
-[20:42:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[20:47:50] [User Authenticator #56/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[20:47:50] [Server thread/INFO]: ___may0___[/10.0.0.4:50907] logged in with entity id 276823 at (-239.88600624588943, 64.0, -65.71650028522328)
-[20:47:50] [Server thread/INFO]: ___may0___ joined the game
-[20:47:53] [Server thread/INFO]: <jaderinoo> yoski
-[20:48:04] [Server thread/INFO]: <___may0___> yoooooooooooooooooooooo
-[20:48:16] [Server thread/INFO]: <jaderinoo> you got any dirt my guy
-[20:48:24] [Server thread/INFO]: <___may0___> probably
-[20:48:30] [Server thread/INFO]: <___may0___> but like less than 1 stack
-[20:48:34] [Server thread/INFO]: <jaderinoo> nvm then
-[20:48:40] [Server thread/INFO]: <jaderinoo> i appreciate it
-[20:49:21] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1461, y=81, z=679} gh{x=1461, y=80, z=679}
-[20:50:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1415, y=79, z=700} gh{x=1415, y=78, z=700}
-[20:53:10] [Server thread/INFO]: ___may0___ has made the advancement [Enchanter]
-[20:54:44] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[20:54:44] [Server thread/INFO]: ___may0___ left the game
-[20:55:42] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1426, y=82, z=723} gh{x=1426, y=81, z=723}
-[20:55:53] [User Authenticator #57/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[20:55:53] [Server thread/INFO]: ___may0___[/10.0.0.4:51149] logged in with entity id 280118 at (-240.1840359529355, 64.0, -65.60176283749658)
-[20:55:53] [Server thread/INFO]: ___may0___ joined the game
-[20:57:10] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[20:57:10] [Server thread/INFO]: ___may0___ left the game
-[20:58:06] [Server thread/WARN]: Mismatch in destroy block pos: gh{x=1413, y=82, z=737} gh{x=1413, y=81, z=737}
-[20:58:46] [Server thread/INFO]: jaderinoo was shot by Skeleton
-[21:10:55] [Server thread/INFO]: jaderinoo has made the advancement [A Seedy Place]
-[21:15:31] [User Authenticator #58/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[21:15:31] [Server thread/INFO]: ___may0___[/10.0.0.4:51836] logged in with entity id 284591 at (-238.5493685491284, 64.0, -64.86006909157186)
-[21:15:31] [Server thread/INFO]: ___may0___ joined the game
-[21:15:58] [Server thread/INFO]: <___may0___> brutal
-[21:16:04] [Server thread/INFO]: <jaderinoo> ?
-[21:16:05] [Server thread/INFO]: <___may0___> fedex wants 180 to pack and ship
-[21:16:15] [Server thread/INFO]: <jaderinoo> WHAT
-[21:16:24] [Server thread/INFO]: <___may0___> yeah
-[21:16:27] [Server thread/INFO]: <jaderinoo> wtf
-[21:16:40] [Server thread/INFO]: <___may0___> do you think 20 lbs is too much for a tower?
-[21:16:48] [Server thread/INFO]: <jaderinoo> no
-[21:16:55] [Server thread/INFO]: <___may0___> ok well maybe ups is better
-[21:17:26] [Server thread/INFO]: <___may0___> i really need a tiny pc to put in my suitcase lol
-[21:17:38] [Server thread/INFO]: <jaderinoo> they're pretty sick
-[21:17:45] [Server thread/INFO]: <jaderinoo> did you just get home
-[21:18:15] [Server thread/INFO]: <___may0___> ive been home all day i just needed to make some calls to figure out moving to boston
-[21:18:19] [Server thread/INFO]: <___may0___> also in class
-[21:18:23] [Server thread/INFO]: <jaderinoo> oh
-[21:18:25] [Server thread/INFO]: <jaderinoo> virtual
-[21:18:29] [Server thread/INFO]: <___may0___> yea
-[21:21:37] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[21:21:37] [Server thread/INFO]: ___may0___ left the game
-[21:21:46] [User Authenticator #59/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[21:21:46] [Server thread/INFO]: ___may0___[/10.0.0.4:52024] logged in with entity id 287157 at (-171.07678933075388, 67.0, -247.02565939215063)
-[21:21:46] [Server thread/INFO]: ___may0___ joined the game
-[21:34:00] [Server thread/INFO]: ___may0___ has made the advancement [Sweet Dreams]
-[21:34:07] [Server thread/INFO]: <jaderinoo> oh shit
-[21:34:08] [Server thread/INFO]: jaderinoo lost connection: Disconnected
-[21:34:08] [Server thread/INFO]: jaderinoo left the game
-[21:34:14] [User Authenticator #60/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[21:34:14] [Server thread/INFO]: jaderinoo[/10.0.0.2:36772] logged in with entity id 293090 at (1364.6407908336907, 58.0, 594.948763626759)
-[21:34:14] [Server thread/INFO]: jaderinoo joined the game
-[21:34:30] [Server thread/INFO]: <jaderinoo> mans finally got a bed
-[21:34:35] [Server thread/INFO]: <___may0___> :lfg:
-[21:34:41] [Server thread/INFO]: <jaderinoo> :thumbs_up:
-[21:39:39] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[21:39:39] [Server thread/INFO]: ___may0___ left the game
-[21:40:54] [User Authenticator #61/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[21:40:55] [Server thread/INFO]: ___may0___[/10.0.0.4:57263] logged in with entity id 295869 at (-262.8416145996529, 63.0, -70.72902849250038)
-[21:40:55] [Server thread/INFO]: ___may0___ joined the game
-[21:42:48] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[21:42:48] [Server thread/INFO]: ___may0___ left the game
-[21:43:34] [User Authenticator #62/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[21:43:34] [Server thread/INFO]: ___may0___[/10.0.0.4:57352] logged in with entity id 297068 at (-190.94123842428743, 9.0, -32.505488708428935)
-[21:43:34] [Server thread/INFO]: ___may0___ joined the game
-[21:43:44] [Server thread/INFO]: <___may0___> ups said 280 for just shipping lmao
-[21:43:48] [Server thread/INFO]: <___may0___> bro
-[21:43:55] [Server thread/INFO]: <___may0___> i might be a switch gamer for the next 4 months
-[21:47:33] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[21:47:33] [Server thread/INFO]: ___may0___ left the game
-[21:47:45] [User Authenticator #63/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[21:47:45] [Server thread/INFO]: ___may0___[/10.0.0.4:53056] logged in with entity id 299090 at (-356.39067097661854, -8.0, -37.44449907547618)
-[21:47:45] [Server thread/INFO]: ___may0___ joined the game
-[21:47:58] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[21:47:58] [Server thread/INFO]: ___may0___ left the game
-[21:48:18] [User Authenticator #64/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[21:48:18] [Server thread/INFO]: ___may0___[/10.0.0.4:53081] logged in with entity id 299562 at (-357.30000001192093, -3.0, -49.152975204613824)
-[21:48:18] [Server thread/INFO]: ___may0___ joined the game
-[21:51:55] [Server thread/INFO]: <jaderinoo> oh my bad
-[21:51:58] [Server thread/INFO]: <jaderinoo> missed your messages
-[21:52:02] [Server thread/INFO]: <jaderinoo> jesus christ tho
-[21:52:06] [Server thread/INFO]: <jaderinoo> do you have a laptop?
-[21:52:12] [Server thread/INFO]: <___may0___> yeah
-[21:52:15] [Server thread/INFO]: <jaderinoo> i mean
-[21:52:18] [Server thread/INFO]: <___may0___> but it has integrated graphics
-[21:52:28] [Server thread/INFO]: <jaderinoo> vanilla minecraft can run on integrated
-[21:52:39] [Server thread/INFO]: <___may0___> i need owski
-[21:52:42] [Server thread/INFO]: <___may0___> wait
-[21:52:45] [Server thread/INFO]: <___may0___> switch has owski
-[21:52:51] [Server thread/INFO]: <jaderinoo> problem solved
-[21:53:03] [Server thread/INFO]: <___may0___> i was gonna play on my schools team
-[21:53:12] [Server thread/INFO]: <jaderinoo> dead dream
-[21:53:22] [Server thread/INFO]: <___may0___> they have a C team with silver players tho
-[21:53:28] [Server thread/INFO]: <___may0___> i might be able to keep up on switch
-[21:53:30] [Server thread/INFO]: <jaderinoo> lmao
-[21:53:53] [Server thread/INFO]: <jaderinoo> do you know when you could get that dynmap installed?
-[21:54:00] [Server thread/INFO]: <jaderinoo> would be super helpful for me atm
-[21:54:15] [Server thread/INFO]: <jaderinoo> the island is too big for me to use my freecam
-[21:54:25] [Server thread/INFO]: <jaderinoo> and I really need a top down
-[21:54:49] [Server thread/INFO]: <___may0___> i could do it now
-[21:54:50] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[21:54:50] [Server thread/INFO]: ___may0___ left the game
-[21:55:41] [Server thread/INFO]: jaderinoo lost connection: Disconnected
-[21:55:41] [Server thread/INFO]: jaderinoo left the game
-[22:00:41] [User Authenticator #65/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[22:00:42] [Server thread/INFO]: ___may0___[/10.0.0.4:54064] logged in with entity id 303229 at (-487.69999998807907, -7.0, -80.8741670691517)
-[22:00:42] [Server thread/INFO]: ___may0___ joined the game
-[22:01:42] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[22:01:42] [Server thread/INFO]: ___may0___ left the game
-[22:12:33] [User Authenticator #66/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[22:12:33] [Server thread/INFO]: ___may0___[/10.0.0.4:62950] logged in with entity id 303701 at (-476.83240537417214, -16.0, -80.86519988743753)
-[22:12:33] [Server thread/INFO]: ___may0___ joined the game
-[22:12:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
-[22:22:00] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[22:22:00] [Server thread/INFO]: ___may0___ left the game
-[22:24:28] [User Authenticator #67/INFO]: UUID of player ___may0___ is a8dc390e-0ac9-4cc9-ad26-4219eb64cc8a
-[22:24:28] [Server thread/INFO]: ___may0___[/10.0.0.4:49682] logged in with entity id 305983 at (-444.3471743133258, -32.0, -22.693782219436)
-[22:24:28] [Server thread/INFO]: ___may0___ joined the game
-[22:31:29] [Server thread/INFO]: ___may0___ lost connection: Disconnected
-[22:31:29] [Server thread/INFO]: ___may0___ left the game
-[22:51:20] [User Authenticator #68/INFO]: UUID of player jaderinoo is 44fbb336-0d2d-4907-afe2-b71a35470581
-[22:51:20] [Server thread/INFO]: jaderinoo[/10.0.0.2:36900] logged in with entity id 307862 at (1358.2455666975459, 58.0, 593.4725339646961)
-[22:51:20] [Server thread/INFO]: jaderinoo joined the game
+[19:03:54] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:03:54] [ServerMain/INFO]: Reloading ResourceManager: Default, bukkit
+[19:03:54] [Worker-Main-11/INFO]: Loaded 7 recipes
+[19:03:56] [Server thread/INFO]: Starting minecraft server version 1.18.1
+[19:03:56] [Server thread/INFO]: Loading properties
+[19:03:56] [Server thread/INFO]: This server is running CraftBukkit version 3406-Spigot-f4ff00f-7c3ac94 (MC: 1.18.1) (Implementing API version 1.18.1-R0.1-SNAPSHOT)
+[19:03:56] [Server thread/INFO]: Debug logging is disabled
+[19:03:56] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:03:56] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:03:56] [Server thread/INFO]: Default game type: SURVIVAL
+[19:03:56] [Server thread/INFO]: Generating keypair
+[19:03:56] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:03:56] [Server thread/INFO]: Using epoll channel type
+[19:03:57] [Server thread/INFO]: [dynmap] Loading dynmap v3.3-beta-4-617
+[19:03:57] [Server thread/INFO]: [dynmap] version=3406-Spigot-f4ff00f-7c3ac94 (MC: 1.18.1)
+[19:03:57] [Server thread/INFO]: [dynmap] Mod Support API available
+[19:03:57] [Server thread/INFO]: [SLEEP] Loading Sleep v1.0.8
+[19:03:57] [Server thread/INFO]: [AureliumSkills] Loading AureliumSkills vBeta 1.2.8
+[19:03:57] [Server thread/INFO]: [UltimateHomes] Loading UltimateHomes v2.5
+[19:03:57] [Server thread/INFO]: Preparing level "world"
+[19:03:57] [Server thread/INFO]: -------- World Settings For [world] --------
+[19:03:57] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:03:57] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:03:57] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:03:57] [Server thread/INFO]: Mob Spawn Range: 6
+[19:03:57] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:03:57] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:03:57] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:03:57] [Server thread/INFO]: Max TNT Explosions: 100
+[19:03:57] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:03:57] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:03:57] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:03:57] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:03:57] [Server thread/INFO]: View Distance: 10
+[19:03:57] [Server thread/INFO]: Simulation Distance: 10
+[19:03:57] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:03:57] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:03:57] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:03:58] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[19:03:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:03:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:03:58] [Server thread/INFO]: Mob Spawn Range: 6
+[19:03:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:03:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:03:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:03:58] [Server thread/INFO]: Max TNT Explosions: 100
+[19:03:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:03:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:03:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:03:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:03:58] [Server thread/INFO]: View Distance: 10
+[19:03:58] [Server thread/INFO]: Simulation Distance: 10
+[19:03:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:03:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:03:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:03:58] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[19:03:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Potato Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[19:03:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[19:03:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[19:03:58] [Server thread/INFO]: Mob Spawn Range: 6
+[19:03:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[19:03:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[19:03:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[19:03:58] [Server thread/INFO]: Max TNT Explosions: 100
+[19:03:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[19:03:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[19:03:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[19:03:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[19:03:58] [Server thread/INFO]: View Distance: 10
+[19:03:58] [Server thread/INFO]: Simulation Distance: 10
+[19:03:58] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[19:03:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[19:03:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[19:03:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:03:59] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:03:59] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:03:59] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:03:59] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:04:00] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[19:04:00] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:04:01] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:04:01] [Worker-Main-10/INFO]: Preparing spawn area: 4%
+[19:04:02] [Worker-Main-14/INFO]: Preparing spawn area: 11%
+[19:04:02] [Worker-Main-10/INFO]: Preparing spawn area: 18%
+[19:04:03] [Worker-Main-10/INFO]: Preparing spawn area: 51%
+[19:04:03] [Worker-Main-12/INFO]: Preparing spawn area: 78%
+[19:04:04] [Server thread/INFO]: Time elapsed: 5960 ms
+[19:04:04] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:04:04] [Worker-Main-13/INFO]: Preparing spawn area: 0%
+[19:04:04] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:04:05] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[19:04:06] [Worker-Main-10/INFO]: Preparing spawn area: 11%
+[19:04:06] [Worker-Main-10/INFO]: Preparing spawn area: 48%
+[19:04:06] [Worker-Main-13/INFO]: Preparing spawn area: 68%
+[19:04:07] [Worker-Main-14/INFO]: Preparing spawn area: 70%
+[19:04:07] [Worker-Main-8/INFO]: Preparing spawn area: 73%
+[19:04:08] [Worker-Main-9/INFO]: Preparing spawn area: 79%
+[19:04:08] [Worker-Main-10/INFO]: Preparing spawn area: 83%
+[19:04:09] [Worker-Main-11/INFO]: Preparing spawn area: 85%
+[19:04:10] [Worker-Main-10/INFO]: Preparing spawn area: 89%
+[19:04:10] [Worker-Main-10/INFO]: Preparing spawn area: 91%
+[19:04:10] [Worker-Main-9/INFO]: Preparing spawn area: 95%
+[19:04:11] [Server thread/INFO]: Time elapsed: 6914 ms
+[19:04:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:04:11] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:04:11] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:04:12] [Worker-Main-9/INFO]: Preparing spawn area: 5%
+[19:04:12] [Worker-Main-14/INFO]: Preparing spawn area: 57%
+[19:04:13] [Worker-Main-11/INFO]: Preparing spawn area: 85%
+[19:04:13] [Server thread/INFO]: Time elapsed: 2203 ms
+[19:04:13] [Server thread/INFO]: [dynmap] Enabling dynmap v3.3-beta-4-617
+[19:04:13] [Server thread/INFO]: [dynmap] Added 18 custom biome mappings
+[19:04:13] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[19:04:13] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[19:04:14] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[19:04:14] [Server thread/INFO]: [dynmap] Loaded 27 shaders.
+[19:04:14] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[19:04:14] [Server thread/INFO]: [dynmap] Loaded 22 lightings.
+[19:04:14] [Server thread/INFO]: [dynmap] Starting enter/exit processing
+[19:04:14] [Dynmap Render Thread/INFO]: [dynmap] Finish marker initialization
+[19:04:14] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[19:04:14] [Server thread/INFO]: [dynmap] version 3.3-beta-4-617 is enabled - core version 3.3-beta-4-617
+[19:04:14] [Server thread/INFO]: [dynmap] For support, visit https://reddit.com/r/Dynmap or our Discord at https://discord.gg/s3rd5qn
+[19:04:14] [Server thread/INFO]: [dynmap] To report or track bugs, visit https://github.com/webbukkit/dynmap/issues
+[19:04:14] [Server thread/INFO]: [dynmap] If you'd like to donate, please visit https://www.patreon.com/dynmap or https://ko-fi.com/michaelprimm
+[19:04:14] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[19:04:14] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[19:04:14] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[19:04:14] [Server thread/INFO]: [dynmap] Enabled
+[19:04:14] [Server thread/INFO]: [SLEEP] Enabling Sleep v1.0.8
+[19:04:14] [Server thread/INFO]: [AureliumSkills] Enabling AureliumSkills vBeta 1.2.8
+[19:04:14] [Server thread/INFO]: [AureliumSkills] Loaded 183 config options in 1 ms
+[19:04:14] [Server thread/INFO]: [AureliumSkills] Loaded 284 sources and 10 tags in 11ms
+[19:04:14] [Server thread/INFO]: [AureliumSkills] Loading languages...
+[19:04:15] [Server thread/INFO]: [AureliumSkills] Loaded 14 languages in 680ms
+[19:04:15] [Server thread/INFO]: [AureliumSkills] Loaded 30 pattern rewards and 0 level rewards
+[19:04:15] [Server thread/INFO]: [AureliumSkills] Loaded 3 menus, 9 items, and 5 templates in 124 ms
+[19:04:15] [Server thread/INFO]: [AureliumSkills] Loaded 78 Ability Options in 1ms
+[19:04:15] [Server thread/INFO]: [AureliumSkills] Loaded 32 loot entries in 4 pools and 2 tables
+[19:04:15] [Server thread/INFO]: [AureliumSkills] Loaded 3 blocked worlds.
+[19:04:15] [Server thread/INFO]: [AureliumSkills] Aurelium Skills has been enabled
+[19:04:15] [Server thread/INFO]: [UltimateHomes] Enabling UltimateHomes v2.5
+[19:04:15] [Server thread/INFO]: [m
+[19:04:15] [Server thread/INFO]: [0;32;1m--------------------------------------[m
+[19:04:15] [Server thread/INFO]: [0;37;1m       UltimateHomes by kixmc[m
+[19:04:15] [Server thread/INFO]: [0;37;1m       Enabled on version 2.5[m
+[19:04:15] [Server thread/INFO]: [0;32;1m--------------------------------------[m
+[19:04:15] [Server thread/INFO]:  [m
+[19:04:15] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:04:15] [Server thread/INFO]: Done (18.536s)! For help, type "help"
+[19:04:15] [Server thread/INFO]: Starting remote control listener
+[19:04:15] [Server thread/INFO]: Thread RCON Listener started
+[19:04:15] [Server thread/INFO]: RCON running on 0.0.0.0:25575
+[19:04:19] [Thread-1/INFO]: Stopping server

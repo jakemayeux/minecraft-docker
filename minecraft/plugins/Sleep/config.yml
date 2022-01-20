@@ -1,0 +1,29 @@
+# true = Percentage
+# false = Players
+PercentageEnabled: false
+
+# Percentage of Players needed to Sleep
+Percentage:
+  Percentage: 50
+  # {Player} = Player name
+  # {Percentage} = Percentage of Sleeping Players
+  # {NeededPercentage} = Percentage of Players needed to Sleep
+  MessageEnter: "&5{Player}&6 is now sleeping, {Percentage}% out of {NeededPercentage}% needed"
+  MessageLeave: "&5{Player}&6 is no longer sleeping, {Percentage}% out of {NeededPercentage}% needed"
+
+# Players needed to Sleep
+Players:
+  Players: 1
+  # {Player} = Player name
+  # {Players} = Sleeping Players
+  # {NeededPlayers} = Players needed to Sleep
+  MessageEnter: "&5{Player}&6 is now sleeping, {Players} out of {NeededPlayers} needed"
+  MessageLeave: "&5{Player}&6 is no longer sleeping, {Percentage} out of {NeededPlayers} needed"
+
+# Night to Day Animation
+Animation: true
+
+# Updating the plugin
+Updater:
+  # Enable Updater
+  Enabled: true

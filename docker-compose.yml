@@ -7,6 +7,7 @@ services:
     ports:
       - 1338:25575
       - 1337:25565
+      - 8123:8123
     volumes: 
       - ./minecraft:/home/jdm/minecraft
     security_opt:
